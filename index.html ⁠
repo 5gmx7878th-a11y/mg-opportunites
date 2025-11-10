@@ -10,3 +10,4 @@ html
   <p>Une plateforme pour connecter les chercheurs d’emploi et les employeurs.</p>
 </body>
 </html>
+link rel="stylesheet" href="style.css">
